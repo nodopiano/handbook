@@ -5,6 +5,9 @@ position: 1
 category: ''
 
 ---
+ispirazione
+[basecamp](https://basecamp.com/handbook/)
+[sparkfabrik](https://playbook.sparkfabrik.com/)
 
 -  Introduzione
 -  In cosa crediamo
