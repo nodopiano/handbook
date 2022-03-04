@@ -5,8 +5,8 @@ position: 1
 category: ''
 
 ---
-ispirazione
-[basecamp](https://basecamp.com/handbook/)
+ispirazione  
+[basecamp](https://basecamp.com/handbook/)  
 [sparkfabrik](https://playbook.sparkfabrik.com/)
 
 -  Introduzione
@@ -15,7 +15,7 @@ ispirazione
 -  Prodotti
 -  Dove Lavoriamo
 -  Come Lavoriamo
-  - Il ruolo del Product Owner
+  - [Il ruolo del Product Owner](/come-lavoriamo)
 -  Lavorare con noi
   - iniziare
   - Carriera
