@@ -15,6 +15,7 @@ ispirazione
 -  Prodotti
 -  Dove Lavoriamo
 -  Come Lavoriamo
+  - Il ruolo del Product Owner
 -  Lavorare con noi
   - iniziare
   - Carriera
