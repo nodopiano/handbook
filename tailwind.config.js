@@ -3,7 +3,6 @@ const defaultTheme = require('tailwindcss/defaultTheme')
         theme: {
           extend: {
               fontFamily: {
-                  sans: 'Rubik' 
               },
           }
         }

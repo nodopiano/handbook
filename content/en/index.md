@@ -23,7 +23,7 @@ Da tempo lavoriamo su questo obiettivo e sai come lo facciamo? Ci mettiamo in di
 
 **Abbiamo capito perché e come fare perché non capiti più? Sì.** 
 
-**Agiamo diversamente per migliorare? Sì! **
+**Agiamo diversamente per migliorare? Sì!**
 
 Questo si chiama maturare. 
 
@@ -44,7 +44,7 @@ La voce è uno strumento di lavoro per noi, dal momento in cui entri a far parte
 
 Ogni persona ha la capacità e il dovere di portare la propria esperienza e il proprio punto di vista. Abbiamo tutti tanto da dire e ci siamo allenati per comunicare bene e ascoltare meglio. 
 
-** La pratica non ci ha resi perfetti ma ci migliora ogni giorno. **
+**La pratica non ci ha resi perfetti ma ci migliora ogni giorno.**
 
 ### Il cliente siamo noi
 Quando incontriamo un nuovo cliente non lo consideriamo come un’azienda che si rivolge a noi per un lavoro. Per noi è una persona che sta chiedendo il nostro aiuto per risolvere un problema, per rispondere a un bisogno o per crescere.
