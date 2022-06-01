@@ -1,10 +1,9 @@
 ---
 title: Come lavoriamo
 description: ''
-position: 3
-category: Nodopiano
+position: 4
+category: lavorare con noi
 ---
-# Come lavoriamo
 L'obiettivo principale di Nodopiano è di creare valore. _Qualcosa in grado di risolvere un problema o generare un beneficio per gli utilizzatori e i clienti, ma anche un asset tangibile dell’azienda in grado di generare revenue o stimolare la vendita di altri prodotti/servizi._ 
 
 Per avvicinarsi il più possibile a questo obiettivo cerchiamo di mettere in pratica nel modo migliore possibile la **metodologia Agile**.
