@@ -10,8 +10,8 @@ Abbiamo raccolto qui alcune delle cose che ci ispirano, e che cerchiamo ogni gio
  
 
 ## Pubblicazioni
-[Il manifesto agile](https://agilemanifesto.org/iso/it/manifesto.html)
-[Cluetrain Manifest](https://it.wikipedia.org/wiki/Cluetrain_manifesto)
+[Il manifesto agile](https://agilemanifesto.org/iso/it/manifesto.html)  
+[Cluetrain Manifest](https://it.wikipedia.org/wiki/Cluetrain_manifesto)  
 
  
 
