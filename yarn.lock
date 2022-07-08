@@ -706,6 +706,11 @@
     tailwindcss "^3.0.24"
     ufo "^0.8.4"
 
+"@picocss/pico@^1.5.3":
+  version "1.5.3"
+  resolved "https://registry.yarnpkg.com/@picocss/pico/-/pico-1.5.3.tgz#82d759f7fcaa17086a12ced8be2353197b2ddfaa"
+  integrity sha512-ZdZOxjlmj0BkpGpYo/ODgAcFpqIgpAACqEmIgpFtxHkam06ITfUfcj9+mPcd+Ti8Dh0KCSvHpmSnJA3+tOStlQ==
+
 "@rollup/plugin-alias@^3.1.9":
   version "3.1.9"
   resolved "https://registry.yarnpkg.com/@rollup/plugin-alias/-/plugin-alias-3.1.9.tgz#a5d267548fe48441f34be8323fb64d1d4a1b3fdf"
