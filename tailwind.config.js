@@ -6,16 +6,16 @@ module.exports = {
             colors: {
                 'np-black': {
                     DEFAULT: '#102027',
-                    '50': '#458BA9',
-                    '100': '#3F7F9B',
-                    '200': '#34677E',
-                    '300': '#284F61',
-                    '400': '#1C3844',
-                    '500': '#102027',
-                    '600': '#000000',
-                    '700': '#000000',
-                    '800': '#000000',
-                    '900': '#000000',
+                    '50': '#78B6C8',
+                    '100': '#6AADC2',
+                    '200': '#4D9CB6',
+                    '300': '#3F839B',
+                    '400': '#346A7E',
+                    '500': '#285161',
+                    '600': '#1C3844',
+                    '700': '#102027',
+                    '800': '#060B0E',
+                    '900': '#000000'
                 },
                 'np-gray': {
                     DEFAULT: '#D2D5D7',
@@ -32,18 +32,18 @@ module.exports = {
                 },
             },
             fontFamily: {
-          'sans': [
-            'Rubik',
-            'ui-sans-serif',
-            'system-ui',
-            '-apple-system',
-          ],
-          'serif': [
-            'Bitter',
-            'ui-serif',
-            'serif',
-          ],
-        },
+                'sans': [
+                    'Rubik',
+                    'ui-sans-serif',
+                    'system-ui',
+                    '-apple-system',
+                ],
+                'serif': [
+                    'Bitter',
+                    'ui-serif',
+                    'serif',
+                ],
+            },
         }
     }
 }
